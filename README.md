@@ -1,5 +1,5 @@
 # Rick_and_Morty
-Приложение для поиска информации о персонажах по вселенной "Rick and Morty".
+Приложение для поиска информации о персонажах по вселенной "Rick and Morty" при помощи API https://rickandmortyapi.com/documentation
 
 Стек технологий, использованных для создания приложения: Kotlin, Coroutines, MVVM, Retrofit 2, Jetpack Compose, AndroidX Navigation. 
 ![image](https://github.com/BezumnyiMarks/Rick_and_Morty/assets/93310097/615161d7-ba56-48de-bb7c-33c461ada823)
